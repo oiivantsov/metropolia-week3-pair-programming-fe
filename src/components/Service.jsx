@@ -11,4 +11,4 @@ const Service = ({ icon, title, text }) => {
     </article>
   )
 }
-export default Services
+export default Service;
